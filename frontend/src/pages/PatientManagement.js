@@ -256,7 +256,7 @@ const PatientManagement = () => {
             <Button
               variant="contained"
               startIcon={<AddIcon />}
-              onClick={() => navigate('/patient-registration')}
+              onClick={() => navigate('/patient/register')}
             >
               Add New Patient
             </Button>
@@ -265,9 +265,9 @@ const PatientManagement = () => {
           {patients.length === 0 ? (
             <Alert severity="info">
               No patients registered yet. 
-              <Button 
-                color="primary" 
-                onClick={() => navigate('/patient-registration')}
+              <Button
+                color="primary"
+                onClick={() => navigate('/patient/register')}
                 sx={{ ml: 1 }}
               >
                 Register your first patient
@@ -337,7 +337,7 @@ const PatientManagement = () => {
         color="primary"
         aria-label="add patient"
         sx={{ position: 'fixed', bottom: 16, right: 16 }}
-        onClick={() => navigate('/patient-registration')}
+        onClick={() => navigate('/patient/register')}
       >
         <AddIcon />
       </Fab>
