@@ -255,7 +255,7 @@ curl -F "file=@test_image.jpg" http://localhost:5000/api/upload
 
 | Model | Architecture | Accuracy | Dataset Size |
 |-------|-------------|----------|--------------|
-| Pneumonia | ResNet50 | 94.2% | 5,863 images |
+| Pneumonia | VGG16 | 94.2% | 5,863 images |
 | Tuberculosis | ResNet50 | 91.8% | 7,000 images |
 | Lung Cancer | EfficientNetB0 | 89.5% | 15,000 images |
 | Unified | EfficientNetB0 | 88.7% | 25,000+ images |
