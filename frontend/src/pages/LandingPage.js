@@ -648,7 +648,7 @@ const LandingPage = () => {
                 Contact Us
               </Typography>
               <Typography variant="body2" sx={{ opacity: 0.8 }}>
-                Email: info@respiroai.com<br />
+                Email: khelendra.guptarauniyar@gmail.com<br />
                 Phone: +1 (555) 123-4567<br />
                 Address: 123 Healthcare Ave, Medical District
               </Typography>

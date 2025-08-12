@@ -1,8 +1,15 @@
-# Unified Respiratory Disease Detection System
+# RespiroAI - Unified Respiratory Disease Detection System
+
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+![React](https://img.shields.io/badge/react-v18.2.0-blue.svg)
+![TensorFlow](https://img.shields.io/badge/tensorflow-v2.19.0-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Issues](https://img.shields.io/github/issues/Khelendrarauniyar/respiroai)
+![Stars](https://img.shields.io/github/stars/Khelendrarauniyar/respiroai)
 
 ## 🚀 Overview
 
-A comprehensive full-stack application for automated detection of Pneumonia, Tuberculosis, and Lung Cancer using advanced deep learning models. The system combines multiple CNN models with transfer learning approach and integrates Gemini AI for intelligent report generation.
+RespiroAI is an advanced AI-powered medical diagnosis system that leverages deep learning and computer vision to detect respiratory diseases from chest X-ray images. The system can accurately identify **Pneumonia**, **Tuberculosis**, and **Lung Cancer** with high precision, making it a valuable tool for healthcare professionals and medical institutions.
 
 ## ✨ Features
 
@@ -294,12 +301,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This system is designed for educational and research purposes. It should not be used as a substitute for professional medical diagnosis. Always consult qualified healthcare professionals for medical decisions.
 
-## 📞 Support
+## 📞 Support & Contact
+
+**Project Maintainer**: [Khelendra Rauniyar](mailto:khelendra.guptarauniyar@gmail.com)
 
 For support and questions:
-- 📧 Email: support@respirai.com
-- 🐛 Issues: GitHub Issues
-- 📚 Documentation: Wiki pages
+- 📧 **Email**: khelendra.guptarauniyar@gmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Khelendrarauniyar/respiroai/issues)
+- 📚 **Documentation**: [Project Wiki](https://github.com/Khelendrarauniyar/respiroai/wiki)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Khelendrarauniyar/respiroai/discussions)
 
 ## 🙏 Acknowledgments
 
@@ -329,4 +339,6 @@ For support and questions:
 
 ---
 
-**Made with ❤️ for better healthcare**
+**Made with ❤️ by [Khelendra Rauniyar](https://github.com/Khelendrarauniyar) for better healthcare**
+
+⭐ **Star this repository if you find it helpful!**

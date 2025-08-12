@@ -233,7 +233,7 @@ const TermsOfService = () => {
             <Box sx={{ mt: 2, p: 3, backgroundColor: '#f5f5f5', borderRadius: 2 }}>
               <Typography variant="body1">
                 <strong>Legal Department</strong><br />
-                Email: legal@respiroai.com<br />
+                Email: khelendra.guptarauniyar@gmail.com<br />
                 Phone: +1 (555) 123-4567<br />
                 Address: 123 Healthcare Ave, Medical District, City, State 12345
               </Typography>

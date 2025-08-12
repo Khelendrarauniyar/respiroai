@@ -54,7 +54,7 @@ const MITLicense = () => {
             Open Source License for RespiroAI Components
           </Typography>
           <Typography variant="body1" sx={{ textAlign: 'center', mt: 2, opacity: 0.8 }}>
-            Copyright © 2025 RespiroAI Team
+            Copyright © 2025 Khelendra Rauniyar
           </Typography>
         </Container>
       </Box>
@@ -96,7 +96,7 @@ const MITLicense = () => {
               }}
             >
               <Typography variant="body2" sx={{ lineHeight: 2, whiteSpace: 'pre-line' }}>
-{`Copyright (c) 2025 RespiroAI Team
+{`Copyright (c) 2025 Khelendra Rauniyar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -239,10 +239,10 @@ SOFTWARE.`}
             </Typography>
             <Box sx={{ mt: 2, p: 3, backgroundColor: '#f5f5f5', borderRadius: 2 }}>
               <Typography variant="body1">
-                <strong>Licensing Team</strong><br />
-                Email: licensing@respiroai.com<br />
-                GitHub: https://github.com/respiroai<br />
-                Website: https://respiroai.com/developers
+                <strong>Project Maintainer</strong><br />
+                Email: khelendra.guptarauniyar@gmail.com<br />
+                GitHub: https://github.com/Khelendrarauniyar/respiroai<br />
+                Project: https://github.com/Khelendrarauniyar/respiroai
               </Typography>
             </Box>
           </Box>
@@ -266,7 +266,7 @@ SOFTWARE.`}
             </Button>
             <Button
               variant="outlined"
-              onClick={() => window.open('https://github.com/respiroai', '_blank')}
+              onClick={() => window.open('https://github.com/Khelendrarauniyar/respiroai', '_blank')}
               startIcon={<CodeIcon />}
               sx={{ px: 4, py: 1.5 }}
             >
@@ -279,7 +279,7 @@ SOFTWARE.`}
       {/* Footer */}
       <Box sx={{ py: 4, backgroundColor: '#f8f9fa', textAlign: 'center' }}>
         <Typography variant="body2" color="text.secondary">
-          © 2025 RespiroAI. Open source components licensed under MIT License.
+          © 2025 Khelendra Rauniyar. Open source components licensed under MIT License.
         </Typography>
       </Box>
     </Box>

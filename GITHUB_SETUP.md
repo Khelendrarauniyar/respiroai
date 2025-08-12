@@ -67,7 +67,7 @@
 # Create MIT License
 echo "MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 Khelendra Rauniyar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the \"Software\"), to deal
@@ -215,7 +215,7 @@ gh repo create unified-respiratory-disease-detection --public --description "AI-
 
 # Push to GitHub
 git branch -M main
-git remote add origin https://github.com/yourusername/unified-respiratory-disease-detection.git
+git remote add origin https://github.com/Khelendrarauniyar/respiroai.git
 git push -u origin main
 ```
 
@@ -238,8 +238,8 @@ git push origin v1.0.0
 ![React](https://img.shields.io/badge/react-v18.2.0-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-v2.19.0-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Issues](https://img.shields.io/github/issues/yourusername/unified-respiratory-disease-detection)
-![Stars](https://img.shields.io/github/stars/yourusername/unified-respiratory-disease-detection)
+![Issues](https://img.shields.io/github/issues/Khelendrarauniyar/respiroai)
+![Stars](https://img.shields.io/github/stars/Khelendrarauniyar/respiroai)
 ```
 
 ---

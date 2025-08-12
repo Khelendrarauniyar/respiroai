@@ -76,7 +76,7 @@ A comprehensive AI-powered medical diagnostic system that detects respiratory di
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/unified-respiratory-disease-detection.git
+git clone https://github.com/Khelendrarauniyar/respiroai.git
 cd unified-respiratory-disease-detection
 ```
 
@@ -297,13 +297,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Maintainer**: [Your Name](mailto:your.email@example.com)
-- **GitHub Issues**: [Create an Issue](https://github.com/yourusername/unified-respiratory-disease-detection/issues)
-- **Documentation**: [Project Wiki](https://github.com/yourusername/unified-respiratory-disease-detection/wiki)
+- **Project Maintainer**: [Khelendra Rauniyar](mailto:khelendra.guptarauniyar@gmail.com)
+- **GitHub Issues**: [Create an Issue](https://github.com/Khelendrarauniyar/respiroai/issues)
+- **Documentation**: [Project Wiki](https://github.com/Khelendrarauniyar/respiroai/wiki)
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/unified-respiratory-disease-detection&type=Date)](https://star-history.com/#yourusername/unified-respiratory-disease-detection&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Khelendrarauniyar/respiroai&type=Date)](https://star-history.com/#Khelendrarauniyar/respiroai&Date)
 
 ---
 

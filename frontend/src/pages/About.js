@@ -263,7 +263,7 @@ const About = () => {
           <div className="contact-item">
             <FiMail className="contact-icon" />
             <h3>Email</h3>
-            <p>support@respirai.com</p>
+            <p>khelendra.guptarauniyar@gmail.com</p>
           </div>
           <div className="contact-item">
             <FiGithub className="contact-icon" />

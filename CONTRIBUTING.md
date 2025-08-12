@@ -11,7 +11,7 @@ We love your input! We want to make contributing to this project as easy and tra
 ## 🚀 Quick Start for Contributors
 
 1. **Fork the repository**
-2. **Clone your fork**: `git clone https://github.com/yourusername/unified-respiratory-disease-detection.git`
+2. **Clone your fork**: `git clone https://github.com/Khelendrarauniyar/respiroai.git`
 3. **Create a branch**: `git checkout -b feature/your-feature-name`
 4. **Make your changes**
 5. **Test your changes**
@@ -21,7 +21,7 @@ We love your input! We want to make contributing to this project as easy and tra
 
 ## 🐛 Reporting Bugs
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/yourusername/unified-respiratory-disease-detection/issues).
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/Khelendrarauniyar/respiroai/issues).
 
 **Great Bug Reports** tend to have:
 
@@ -318,9 +318,9 @@ Contributors are recognized in:
 
 Don't hesitate to ask questions! You can:
 
-- [Open an issue](https://github.com/yourusername/unified-respiratory-disease-detection/issues)
-- [Start a discussion](https://github.com/yourusername/unified-respiratory-disease-detection/discussions)
-- Email the maintainers
+- [Open an issue](https://github.com/Khelendrarauniyar/respiroai/issues)
+- [Start a discussion](https://github.com/Khelendrarauniyar/respiroai/discussions)
+- Email the maintainers: khelendra.guptarauniyar@gmail.com
 
 ## 📜 Code of Conduct
 

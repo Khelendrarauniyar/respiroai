@@ -23,7 +23,7 @@ This guide covers various deployment options for the Unified Respiratory Disease
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/unified-respiratory-disease-detection.git
+git clone https://github.com/Khelendrarauniyar/respiroai.git
 cd unified-respiratory-disease-detection
 
 # Build and start services
