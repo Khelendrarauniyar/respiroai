@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 import { 
   FiActivity, 
   FiUsers, 
@@ -296,9 +297,9 @@ const About = () => {
         <div className="footer-content">
           
           <div className="footer-links">
-            <a href="#privacy">Privacy Policy</a>
-            <a href="#terms">Terms of Service</a>
-            <a href="#license">MIT License</a>
+            <Link to="/privacy-policy">Privacy Policy</Link>
+            <Link to="/terms-of-service">Terms of Service</Link>
+            <Link to="/mit-license">MIT License</Link>
           </div>
           
         </div>
