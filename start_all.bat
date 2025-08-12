@@ -1,0 +1,13 @@
+@echo off
+echo Starting Respiratory Disease Detection System...
+echo.
+echo Starting Backend...
+start cmd /c run_backend.bat
+timeout /t 5 /nobreak > nul
+echo Starting Frontend...
+start cmd /c run_frontend.bat
+echo.
+echo Both servers are starting...
+echo Backend: http://localhost:5000
+echo Frontend: http://localhost:3000
+pause

@@ -1,0 +1,61 @@
+.patient-registration {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  padding: 2rem 0;
+}
+
+.patient-registration .MuiCard-root {
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+}
+
+.patient-registration .MuiCardHeader-root {
+  background: linear-gradient(45deg, #2196F3 30%, #21CBF3 90%);
+  color: white;
+}
+
+.patient-registration .MuiCardHeader-title {
+  color: white;
+  font-weight: 600;
+}
+
+.patient-registration .MuiCardHeader-subheader {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.patient-registration .MuiTextField-root {
+  margin-bottom: 1rem;
+}
+
+.patient-registration .MuiButton-contained {
+  background: linear-gradient(45deg, #2196F3 30%, #21CBF3 90%);
+  box-shadow: 0 3px 5px 2px rgba(33, 203, 243, .3);
+}
+
+.patient-registration .MuiButton-contained:hover {
+  background: linear-gradient(45deg, #1976D2 30%, #1BA8C4 90%);
+  transform: translateY(-2px);
+  transition: all 0.3s ease;
+}
+
+.patient-registration .MuiAlert-root {
+  border-radius: 12px;
+  background: rgba(33, 150, 243, 0.1);
+  border: 1px solid rgba(33, 150, 243, 0.2);
+}
+
+.form-section {
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.form-section h6 {
+  color: #1976d2;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
